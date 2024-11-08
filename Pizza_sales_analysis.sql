@@ -220,6 +220,3 @@ group by orders.order_date) as sales;
 
 
 
--- Determine the top 3 most ordered pizza types based on revenue for each pizza category.
-
-
